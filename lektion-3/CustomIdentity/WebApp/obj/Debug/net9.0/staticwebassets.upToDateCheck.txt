@@ -1,0 +1,6 @@
+C:\Projects\prog24\asp2\lektion-3\CustomIdentity\WebApp\wwwroot\favicon.ico
+C:\Projects\prog24\asp2\lektion-3\CustomIdentity\WebApp\wwwroot\js\site.js
+C:\Projects\prog24\asp2\lektion-3\CustomIdentity\WebApp\wwwroot\css\site.css
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\site.js

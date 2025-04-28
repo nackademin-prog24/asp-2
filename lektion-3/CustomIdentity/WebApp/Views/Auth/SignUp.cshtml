@@ -1,0 +1,48 @@
+﻿@model SignUpViewModel
+
+@{
+    ViewData["Title"] = "Create Account";
+}
+
+<div class="center-wrapper">
+    <form id="signup" method="post">
+
+        <div class="card">
+            <div class="card-header">
+                <h2>@ViewData["Title"]</h2>
+                <div>To access this page, you need to have an account. You can register an account here or use one of our third-party logins.</div>
+            </div>
+            <div class="card-body">
+
+                @if (!string.IsNullOrEmpty(ViewBag?.ErrorMessage))
+                {
+                    <div>@ViewBag?.ErrorMessage</div>
+                }
+
+                <div class="form-group">
+                    <input asp-for="FirstName" class="form-input" />
+                    <span asp-validation-for="FirstName"></span>
+
+                    <input asp-for="LastName" class="form-input" />
+                    <span asp-validation-for="LastName"></span>
+
+                    <input asp-for="Email" class="form-input" />
+                    <span asp-validation-for="Email"></span>
+
+                    <input asp-for="Password" class="form-input" value="@Model?.Password" />
+                    <span asp-validation-for="Password"></span>
+
+                    <input asp-for="ConfirmPassword" class="form-input" value="@Model?.ConfirmPassword" />
+                    <span asp-validation-for="ConfirmPassword"></span>
+                </div>
+
+                <button type="submit" class="btn-primary">Continue</button>
+            </div>
+            <div class="card-footer info">
+                <span>Already have an account?</span>
+                <a asp-controller="Auth" asp-action="Login">Log in</a>
+            </div>
+        </div>
+
+    </form>
+</div>
