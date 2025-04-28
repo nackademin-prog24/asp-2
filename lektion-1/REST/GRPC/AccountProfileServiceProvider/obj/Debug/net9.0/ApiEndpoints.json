@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AccountProfileServiceProvider.Controllers.AccountProfilesController",
+    "Method": "Create",
+    "RelativePath": "api/AccountProfiles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "formData",
+        "Type": "AccountProfileServiceProvider.Models.RegistrationFormData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

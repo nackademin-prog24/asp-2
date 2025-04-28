@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6JlWjRHVGcxxMoPK7W0G3Ef85dnzgFYryFzcp9+sEVM=",
+  "Source": "AccountProfileServiceProvider",
+  "BasePath": "_content/AccountProfileServiceProvider",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
