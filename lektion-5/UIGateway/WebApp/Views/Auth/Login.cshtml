@@ -1,0 +1,4 @@
+﻿<form asp-asp-controller="Auth" asp-action="ExternalLogin" method="post" novalidate>
+    <input type="hidden" name="returnUrl" value="@ViewBag?.ReturnUrl" />
+    <button type="submit" name="provider" value="Google">Google</button>
+</form>

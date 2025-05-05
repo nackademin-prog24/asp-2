@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07D03557-E40D-464D-952A-38892F69357F}|WebApp\\WebApp.csproj|c:\\projects\\prog24\\asp2\\lektion-5\\uigateway\\webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D03557-E40D-464D-952A-38892F69357F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D03557-E40D-464D-952A-38892F69357F}|WebApp\\WebApp.csproj|c:\\projects\\prog24\\asp2\\lektion-5\\uigateway\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D03557-E40D-464D-952A-38892F69357F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D03557-E40D-464D-952A-38892F69357F}|WebApp\\WebApp.csproj|c:\\projects\\prog24\\asp2\\lektion-5\\uigateway\\webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07D03557-E40D-464D-952A-38892F69357F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D03557-E40D-464D-952A-38892F69357F}|WebApp\\WebApp.csproj|c:\\projects\\prog24\\asp2\\lektion-5\\uigateway\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07D03557-E40D-464D-952A-38892F69357F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D03557-E40D-464D-952A-38892F69357F}|WebApp\\WebApp.csproj|c:\\projects\\prog24\\asp2\\lektion-5\\uigateway\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D03557-E40D-464D-952A-38892F69357F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D03557-E40D-464D-952A-38892F69357F}|WebApp\\WebApp.csproj|c:\\projects\\prog24\\asp2\\lektion-5\\uigateway\\webapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07D03557-E40D-464D-952A-38892F69357F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0E326-0ED0-4719-9CCF-CF15C46CAC7D}|Authentication\\Authentication.csproj|c:\\projects\\prog24\\asp2\\lektion-5\\uigateway\\authentication\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D0E326-0ED0-4719-9CCF-CF15C46CAC7D}|Authentication\\Authentication.csproj|solutionrelative:authentication\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0E326-0ED0-4719-9CCF-CF15C46CAC7D}|Authentication\\Authentication.csproj|c:\\projects\\prog24\\asp2\\lektion-5\\uigateway\\authentication\\models\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D0E326-0ED0-4719-9CCF-CF15C46CAC7D}|Authentication\\Authentication.csproj|solutionrelative:authentication\\models\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D03557-E40D-464D-952A-38892F69357F}|WebApp\\WebApp.csproj|c:\\projects\\prog24\\asp2\\lektion-5\\uigateway\\webapp\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D03557-E40D-464D-952A-38892F69357F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0E326-0ED0-4719-9CCF-CF15C46CAC7D}|Authentication\\Authentication.csproj|c:\\projects\\prog24\\asp2\\lektion-5\\uigateway\\authentication\\authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58D0E326-0ED0-4719-9CCF-CF15C46CAC7D}|Authentication\\Authentication.csproj|solutionrelative:authentication\\authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:59:20.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T11:56:50.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\WebApp\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\WebApp\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T11:22:52.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\WebApp\\Models\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\SignUpViewModel.cs",
+              "ToolTip": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\WebApp\\Models\\SignUpViewModel.cs",
+              "RelativeToolTip": "WebApp\\Models\\SignUpViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:15:39.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthResult.cs",
+              "DocumentMoniker": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\Authentication\\Models\\AuthResult.cs",
+              "RelativeDocumentMoniker": "Authentication\\Models\\AuthResult.cs",
+              "ToolTip": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\Authentication\\Models\\AuthResult.cs",
+              "RelativeToolTip": "Authentication\\Models\\AuthResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:09:10.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Authentication",
+              "DocumentMoniker": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\Authentication\\Authentication.csproj",
+              "RelativeDocumentMoniker": "Authentication\\Authentication.csproj",
+              "ToolTip": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\Authentication\\Authentication.csproj",
+              "RelativeToolTip": "Authentication\\Authentication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T11:07:16.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\Authentication\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Authentication\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\Authentication\\Services\\AuthService.cs",
+              "RelativeToolTip": "Authentication\\Services\\AuthService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:05:18.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:57:33.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\WebApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\WebApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:57:25.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "C:\\Projects\\prog24\\asp2\\lektion-5\\UIGateway\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T11:49:00.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

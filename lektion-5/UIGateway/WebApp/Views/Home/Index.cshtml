@@ -1,0 +1,12 @@
+﻿@using Authentication.Models
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<User> signInManager
+
+@if(signInManager.IsSignedIn(User))
+{
+    <a asp-controller="Auth" asp-action="Logout">Log out</a>
+}
+else
+{
+    <a asp-controller="Auth" asp-action="Login">Log in</a>
+}
